@@ -8,7 +8,7 @@
 
 - 📝 You can find my publications at [https://orcid.org/0000-0002-0320-8531](https://orcid.org/0000-0002-0320-8531)
 
-- ⚡ Fun fact **once, I participated in an archaeological dig**
+- ⚡ Fun fact **I once participated in an archaeological dig**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
