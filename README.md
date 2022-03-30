@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Monica Yesildirek</h1>
 <h3 align="center">A motivated data scientist from Austin, TX</h3>
 
-- 🔭 I’m currently working on **Google Data Analytics Case Study**
+- 🔭 I’m currently working on **Google Data Analytics Case Study Git**
 
-- 🌱 I’m currently learning **Building Cloud Computing Solutions at Scale Certificate** 
+- 🌱 I’m currently taking the **Building Cloud Computing Solutions at Scale Certificate** 
 
 - 📝 You can find my publications at [https://orcid.org/0000-0002-0320-8531](https://orcid.org/0000-0002-0320-8531)
 
