@@ -8,8 +8,6 @@
 
 - 📝 You can find my publications at [https://orcid.org/0000-0002-0320-8531](https://orcid.org/0000-0002-0320-8531)
 
-- ⚡ Fun fact **I once participated in an archaeological dig**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/monica-yesildirek/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" alt="https://www.linkedin.com/in/monica-yesildirek/" height="30" width="120" /></a>
