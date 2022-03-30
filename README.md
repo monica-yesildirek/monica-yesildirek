@@ -26,7 +26,7 @@
 <a href="https://www.python.org/downloads/" target="blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  </a>
 <a href="https://jupyter.org/" target="blank">
-<img src="  https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/>  </a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/>  </a>
 <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/600px-ArcGIS_logo.png?20200916120335" alt="ArcGIS" width="40" height="40"/> </a>
 <a href="https://git-scm.com/">
