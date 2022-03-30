@@ -20,7 +20,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://cran.r-project.org/bin/windows/base/" target="blank">
-<img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="48" height="40"/> </a>
+<img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="48" height="38"/> </a>
 <a href="https://www.rstudio.com/products/rstudio/download/" target="blank">
 <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/rstudio_94807.png" alt="R Studio" width="40" height="40"/> </a>
 <a href="https://www.python.org/downloads/" target="blank">
