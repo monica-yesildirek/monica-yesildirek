@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Google Data Analytics Case Study**
 
-- 🌱 I’m currently learning **Building Cloud Computing Solutions at Scale Specialization** 
+- 🌱 I’m currently learning **Building Cloud Computing Solutions at Scale Certificate** 
 
 - 📝 You can find my publications at [https://orcid.org/0000-0002-0320-8531](https://orcid.org/0000-0002-0320-8531)
 
@@ -14,6 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/monica-yesildirek/" target="blank"><img align="center" src="https://www.citypng.com/public/uploads/preview/hd-linkedin-official-logo-transparent-background-31623962207jz85kqlqot.png" alt="https://www.linkedin.com/in/monica-yesildirek/" height="40" width="130" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
