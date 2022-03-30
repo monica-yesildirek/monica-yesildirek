@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQGesAtxsw9CCw/profile-displaybackgroundimage-shrink_350_1400/0/1643402204917?e=1654128000&v=beta&t=YO89aWjVLmXh6T_UipBmbI9T8GqB1UHVdRGIFKZGZfo" alt="knowledge isn't powerful until it is applied" width="1000" height="250"/> 
+<img src="https://media-exp1.licdn.com/dms/image/C4D16AQGesAtxsw9CCw/profile-displaybackgroundimage-shrink_350_1400/0/1643402204917?e=1654128000&v=beta&t=YO89aWjVLmXh6T_UipBmbI9T8GqB1UHVdRGIFKZGZfo" alt="knowledge isn't powerful until it is applied" width="800" height="200"/> 
 </p>
 <h1 align="center">Hi 👋, I'm Monica Yesildirek</h1>
 <h3 align="center">A motivated data scientist from Austin, TX</h3>
