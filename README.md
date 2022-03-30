@@ -14,7 +14,7 @@
 </h4>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/monica-yesildirek/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" alt="https://www.linkedin.com/in/monica-yesildirek/" height="30" width="120" /></a>
+<a href="https://www.linkedin.com/in/monica-yesildirek/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" alt="https://www.linkedin.com/in/monica-yesildirek/" height="30" width="120" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
