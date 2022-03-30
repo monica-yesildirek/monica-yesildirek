@@ -4,13 +4,14 @@
 
 <h1 align="left">Hi 👋, I'm Monica Yesildirek</h1>
 <h3 align="left">A motivated data scientist from Austin, TX</h3>
+<h4 align="left">
 
-- 🔭 I’m currently working on **Google Data Analytics Case Study Git**
+- 🔭 I’m currently working on a Google Data Analytics case study repository
 
-- 🌱 I’m currently taking the **Building Cloud Computing Solutions at Scale Certificate** 
+- 🌱 I’m currently taking the Building Cloud Computing Solutions at Scale certificate
 
 - 📝 You can find my publications at [https://orcid.org/0000-0002-0320-8531](https://orcid.org/0000-0002-0320-8531)
-
+</h4>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/monica-yesildirek/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" alt="https://www.linkedin.com/in/monica-yesildirek/" height="30" width="120" /></a>
