@@ -28,7 +28,7 @@
 <a href="https://jupyter.org/" target="blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/>  </a>
 <a href="https://www.tableau.com/products/cloud-bi" target="blank">
-<img src="https://pbs.twimg.com/profile_images/1268207088683020288/d9agkn4h_400x400.jpg" alt="tableau" width="48" height="48"/>  </a>
+<img src="https://pbs.twimg.com/profile_images/1268207088683020288/d9agkn4h_400x400.jpg" alt="tableau" width="47" height="47"/>  </a>
 <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/600px-ArcGIS_logo.png?20200916120335" alt="ArcGIS" width="40" height="40"/> </a>
 <a href="https://git-scm.com/">
