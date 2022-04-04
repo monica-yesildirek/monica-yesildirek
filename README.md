@@ -38,4 +38,3 @@
 <a href="https://www.ibm.com/analytics/spss-statistics-software" target="blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Logo_SPSS.png/640px-Logo_SPSS.png" alt="SPSS" width="40" height="40"/></a></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=monica-yesildirek&show_icons=true&locale=en&layout=compact" alt="monica-yesildirek" /></p>
