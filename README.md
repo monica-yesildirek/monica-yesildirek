@@ -6,9 +6,9 @@
 <h3 align="left">A motivated data scientist from Austin, TX</h3>
 <h4 align="left">
 
-- 🔭 I’m currently working on a Google Data Analytics case study repository
+- 🔭 Wrapping up a Google Data Analytics case study repository
 
-- 🌱 I’m currently taking the Building Cloud Computing Solutions at Scale certificate
+- 🌱 Currently taking the Building Cloud Computing Solutions at Scale Specialization
 
 - 📝 You can find my publications at [https://orcid.org/0000-0002-0320-8531](https://orcid.org/0000-0002-0320-8531)
 </h4>
