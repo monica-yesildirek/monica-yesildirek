@@ -6,7 +6,7 @@
 <h3 align="left">A motivated data scientist from Austin, TX</h3>
 <h4 align="left">
 
-🔭 Wrapping up a Google Data Analytics case study repository
+🔭 Completed Google Data Analytics Certificate case study repository
 
 🌱 Currently taking the Building Cloud Computing Solutions at Scale Specialization
 
