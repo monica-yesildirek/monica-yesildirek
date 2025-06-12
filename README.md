@@ -9,14 +9,13 @@
 📝 You can find my publications and datasets at [https://orcid.org/0000-0002-0320-8531](https://orcid.org/0000-0002-0320-8531)
 
 <h3 align="left">About Me</h3>
-:large_blue_diamond: Skilled in data science, remote sensing, and environmental modeling 
+:large_blue_diamond: Skilled in data science, remote sensing, and environmental modeling
 
 :earth_africa: Merging environmental science and GIS to to protect what matters: water, land, people
 
 :seedling: Creating edible landscapes and native wildlife habitat for pollinators
 
-:desktop_computer: Completed Google Data Analytics Certificate case study 
-
+:desktop_computer: Completed Google Data Analytics Certificate case study
 
 </h4>
 <h3 align="left">Connect with me</h3>
