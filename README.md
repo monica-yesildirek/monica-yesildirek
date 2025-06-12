@@ -3,12 +3,16 @@
 </p>
 
 <h1 align="left">Hello, I'm Monica Yesildirek 👋 </h1>
-<h3 align="left">Motivated data scientist from Austin, TX</h3>
+<h3 align="left">Diverse data scientist from Austin, TX</h3>
 <h4 align="left">
 
 📝 You can find my publications and datasets at [https://orcid.org/0000-0002-0320-8531](https://orcid.org/0000-0002-0320-8531)
 
-🔭 Completed Google Data Analytics Certificate case study repository
+<h3 align="left">About Me</h3>
+:earth_africa: Merging environmental science and GIS to to protect what matters: water, land, people
+:seedling: Creating edible landscapes and native wildlife habitat for pollinators
+🔭 Completed Google Data Analytics Certificate case study 
+
 
 </h4>
 <h3 align="left">Connect with me</h3>
