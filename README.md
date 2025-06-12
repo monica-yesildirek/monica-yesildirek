@@ -33,9 +33,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/>  </a>
 <a href="https://www.tableau.com/products/cloud-bi" target="blank">
 <img src="https://pbs.twimg.com/profile_images/1268207088683020288/d9agkn4h_400x400.jpg" alt="tableau" width="47" height="47"/>  </a>
-<a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview">
+<a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="blank">
 <img src="https://github.com/user-attachments/assets/851bb788-2fa4-4140-a87a-76a7ef2969a1" alt="ArcGIS" width="40" height="40"/> </a>
-<a href="https://desktop.github.com/">
+<a href="https://desktop.github.com/" target="blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" alt="github desktop" alt="Git" width="40" height="40"/> </a>
 <a href="https://www.ibm.com/analytics/spss-statistics-software" target="blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Logo_SPSS.png/640px-Logo_SPSS.png" alt="SPSS" width="40" height="40"/></a>
