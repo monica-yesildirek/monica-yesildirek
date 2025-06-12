@@ -1,5 +1,5 @@
 <p align="left">
-<img src="https://media.istockphoto.com/id/1142838856/photo/bluebonnets-in-texas-hill-country.jpg?s=612x612&w=0&k=20&c=n-9rHxyFadDQcFFCV3bDZDVKxp0SMQJyNWV0qrgfqe8=" alt="Texas prairie wildflowers" width="800" height="600"/> 
+<img src="https://github.com/user-attachments/assets/4d0e9b49-bfed-41f6-8445-590a1614c9e6" alt="Texas prairie wildflowers" width="1500" height="500"/> 
 </p>
 
 <h1 align="left">Hello, I'm Monica Yesildirek 👋 </h1>
