@@ -23,7 +23,7 @@
 <a href="https://www.linkedin.com/in/monica-yesildirek/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" alt="https://www.linkedin.com/in/monica-yesildirek/" height="30" width="120" /></a>
 </p>
 
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left">Programming Languages and Tools</h3>
 <p align="left"> 
 <a href="https://cran.r-project.org/bin/windows/base/" target="blank">
 <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="48" height="38"/> </a>
