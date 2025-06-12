@@ -10,7 +10,9 @@
 
 <h3 align="left">About Me</h3>
 :earth_africa: Merging environmental science and GIS to to protect what matters: water, land, people
+
 :seedling: Creating edible landscapes and native wildlife habitat for pollinators
+
 🔭 Completed Google Data Analytics Certificate case study 
 
 
