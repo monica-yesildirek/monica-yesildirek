@@ -38,4 +38,5 @@
 <a href="https://www.ibm.com/analytics/spss-statistics-software" target="blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Logo_SPSS.png/640px-Logo_SPSS.png" alt="SPSS" width="40" height="40"/></a></p>
 <a href="https://earthengine.google.com" target="blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Logo_SPSS.png/640px-Logo_SPSS.png" alt="SPSS" width="40" height="40"/></a></p>
+<img src="https://earthengine.google.com/static/images/earth-engine-logo.png" alt="SPSS" width="40" height="40"/></a></p>
+
