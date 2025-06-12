@@ -14,7 +14,7 @@
 
 :earth_africa: Merging environmental science and GIS to to protect what matters: water, land, people
 
-:seedling: Creating edible landscapes and native wildlife habitat for pollinators
+:seedling: Creating edible landscapes and native wildlife habitat for pollinators on my free time
 
 
 </h4>
