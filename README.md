@@ -21,8 +21,6 @@
 <p align="left"> 
 <a href="https://cran.r-project.org/bin/windows/base/" target="blank">
 <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="48" height="38"/> </a>
-<a href="https://www.rstudio.com/products/rstudio/download/" target="blank">
-<img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/rstudio_94807.png" alt="R Studio" width="40" height="40"/> </a>
 <a href="https://www.python.org/downloads/" target="blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  </a>
 <a href="https://jupyter.org/" target="blank">
@@ -31,8 +29,6 @@
 <img src="https://pbs.twimg.com/profile_images/1268207088683020288/d9agkn4h_400x400.jpg" alt="tableau" width="47" height="47"/>  </a>
 <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/600px-ArcGIS_logo.png?20200916120335" alt="ArcGIS" width="40" height="40"/> </a>
-<a href="https://git-scm.com/">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" alt="Git" width="40" height="40"/> </a>
 <a href="https://desktop.github.com/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" alt="github desktop" alt="Git" width="40" height="40"/> </a>
 <a href="https://www.ibm.com/analytics/spss-statistics-software" target="blank">
