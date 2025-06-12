@@ -16,7 +16,6 @@
 
 :seedling: Creating edible landscapes and native wildlife habitat for pollinators
 
-:desktop_computer: Completed Google Data Analytics Certificate case study
 
 </h4>
 <h3 align="left">Connect with me</h3>
