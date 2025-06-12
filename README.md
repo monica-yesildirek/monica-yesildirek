@@ -7,6 +7,7 @@
 <h4 align="left">
 
 📝 You can find my publications and datasets at [https://orcid.org/0000-0002-0320-8531](https://orcid.org/0000-0002-0320-8531)
+
 🔭 Completed Google Data Analytics Certificate case study repository
 
 </h4>
