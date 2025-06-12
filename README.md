@@ -33,6 +33,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Logo_SPSS.png/640px-Logo_SPSS.png" alt="SPSS" width="40" height="40"/></a>
 <a href="https://www.postgresql.org/" target="blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="SPSS" width="40" height="40"/></a>
+<a href="https://www.dask.org/" target="blank">
+<img src="https://github.com/user-attachments/assets/b093dc2c-edb6-4f6a-b5ea-2d38e48514d9" alt="SPSS" width="40" height="40"/></a>
 <a href="https://earthengine.google.com" target="blank">
 <img src="https://earthengine.google.com/static/images/earth-engine-logo.png" alt="SPSS" width="40" height="40"/></a></p>
 
