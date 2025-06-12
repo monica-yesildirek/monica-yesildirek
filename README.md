@@ -6,9 +6,9 @@
 <h3 align="left">A motivated data scientist from Austin, TX</h3>
 <h4 align="left">
 
+📝 You can find my publications and datasets at [https://orcid.org/0000-0002-0320-8531](https://orcid.org/0000-0002-0320-8531)
 🔭 Completed Google Data Analytics Certificate case study repository
 
-📝 You can find my publications and datasets at [https://orcid.org/0000-0002-0320-8531](https://orcid.org/0000-0002-0320-8531)
 </h4>
 <h3 align="left">Connect with me</h3>
 <p align="left">
