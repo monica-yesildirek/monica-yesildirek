@@ -1,5 +1,5 @@
 <p align="left">
-<img src="https://i0.wp.com/linkedinheaders.com/wp-content/uploads/2018/02/sunset-ocean-header.jpg?fit=1584%2C396&ssl=1" alt="knowledge isn't powerful until it is applied" width="800" height="200"/> 
+<img src="https://media.istockphoto.com/id/1142838856/photo/bluebonnets-in-texas-hill-country.jpg?s=612x612&w=0&k=20&c=n-9rHxyFadDQcFFCV3bDZDVKxp0SMQJyNWV0qrgfqe8=" alt="Texas prairie wildflowers" width="800" height="200"/> 
 </p>
 
 <h1 align="left">Hello, I'm Monica Yesildirek 👋 </h1>
