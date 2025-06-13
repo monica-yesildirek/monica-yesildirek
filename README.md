@@ -17,11 +17,11 @@
 :seedling: Creating edible landscapes and native wildlife habitat for pollinators on my free time
 
 <a href="https://github.com/monica-yesildirek/Bike-Share" target="blank">
-:heavy_check_mark: Completed Google Data Analytics Certificate
+:heavy_check_mark: Completed Google Data Analytics Certificate</a>
 
 
 <a href="https://public.tableau.com/app/profile/monica.yesildirek/viz/CyclisticBikeShare_16538424597080/Cyclistic" target="blank">
-:eyes: View Cyclistic Bike Share project on Tableau Public
+:eyes: View Cyclistic Bike Share project on Tableau Public</a>
 
 </h4>
 <h3 align="left">Connect with me</h3>
