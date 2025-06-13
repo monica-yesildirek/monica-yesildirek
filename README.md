@@ -17,7 +17,7 @@
 :seedling: Creating edible landscapes and native wildlife habitat for pollinators on my free time
 </p>
 <a href="https://github.com/monica-yesildirek/Bike-Share" target="blank">
-:heavy_check_mark: Completed Google Data Analytics Certificate</a>
+<img src="https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-09-512.png"/>Completed Google Data Analytics Certificate</a>
 </p>
 <a href="https://public.tableau.com/app/profile/monica.yesildirek/viz/CyclisticBikeShare_16538424597080/Cyclistic" target="blank">
 :eyes: View Cyclistic Bike Share project on Tableau Public</a>
