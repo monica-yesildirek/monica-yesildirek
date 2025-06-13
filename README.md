@@ -10,9 +10,9 @@
 
 <h3 align="left">About Me</h3>
 
-:large_blue_diamond: Skilled in data science, remote sensing, and environmental modeling
+:large_blue_diamond: Skilled in data science, GIS, and environmental modeling
 </p>
-:earth_africa: Merging environmental science and GIS to to protect what matters
+:earth_africa: Merging environmental science and geography to to protect what matters
 </p>
 :seedling: Creating edible landscapes and native wildlife habitat on my free time
 </p>
