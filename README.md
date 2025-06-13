@@ -10,7 +10,7 @@
 
 <h3 align="left">About Me</h3>
 
-:large_blue_diamond: Skilled in data science, GIS, and environmental modeling
+:desktop_computer: Skilled in data science, GIS, and environmental modeling
 </p>
 :earth_africa: Merging environmental science and geography to protect what matters
 </p>
