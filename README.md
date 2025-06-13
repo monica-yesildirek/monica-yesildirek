@@ -20,7 +20,7 @@
 </p>
 </p>
 <a href="https://github.com/monica-yesildirek/Bike-Share" target="blank">
-<img src="https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-09-512.png"width="28" height="28"/>Completed Google Data Analytics Certificate</a>
+<img src="https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-09-512.png"width="28" height="28"/>Completed Google Data Analytics Certificate and project (view repository)</a>
 </p>
 <a href="https://public.tableau.com/app/profile/monica.yesildirek/viz/CyclisticBikeShare_16538424597080/Cyclistic" target="blank">
 <img src="https://pbs.twimg.com/profile_images/1268207088683020288/d9agkn4h_400x400.jpg"width="28" height="28"/>View Cyclistic Bike Share project on Tableau Public</a>
