@@ -14,7 +14,7 @@
 </p>
 :earth_africa: Merging environmental science and GIS to to protect what matters
 </p>
-<a img src="https://e7.pngegg.com/pngimages/271/262/png-clipart-plant-sprout-illustration-emoji-iphone-seedlings-leaf-computer-wallpaper.png"width="30" height="30"/> Creating edible landscapes and native wildlife habitat for pollinators on my free time
+:plant: Creating edible landscapes and native wildlife habitat for pollinators on my free time
 </p>
 <a href="https://github.com/monica-yesildirek/Bike-Share" target="blank">
 <img src="https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-09-512.png"width="30" height="30"/>Completed Google Data Analytics Certificate</a>
