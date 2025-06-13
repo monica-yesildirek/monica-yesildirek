@@ -10,7 +10,7 @@
 
 <h3 align="left">About Me</h3>
 
-:desktop_computer: Skilled in data science, GIS, and environmental modeling
+:chart_with_upwards_trend: Skilled in data science, GIS, and environmental modeling
 </p>
 :earth_africa: Merging environmental science and geography to protect what matters
 </p>
