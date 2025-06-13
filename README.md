@@ -12,9 +12,12 @@
 
 :large_blue_diamond: Skilled in data science, remote sensing, and environmental modeling
 </p>
+</p>
 :earth_africa: Merging environmental science and GIS to to protect what matters
 </p>
+</p>
 :seedling: Creating edible landscapes and native wildlife habitat for pollinators on my free time
+</p>
 </p>
 <a href="https://github.com/monica-yesildirek/Bike-Share" target="blank">
 <img src="https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-09-512.png"width="28" height="28"/>Completed Google Data Analytics Certificate</a>
