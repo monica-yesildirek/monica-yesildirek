@@ -12,7 +12,7 @@
 
 :large_blue_diamond: Skilled in data science, remote sensing, and environmental modeling
 
-:earth_africa: Merging environmental science and GIS to to protect what matters: water, land, people
+:earth_africa: Merging environmental science and GIS to to protect what matters
 
 :seedling: Creating edible landscapes and native wildlife habitat for pollinators on my free time
 
