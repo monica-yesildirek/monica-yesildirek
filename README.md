@@ -16,7 +16,7 @@
 
 :seedling: Creating edible landscapes and native wildlife habitat for pollinators on my free time
 
-<a href="https://public.tableau.com/app/profile/monica.yesildirek/viz/CyclisticBikeShare_16538424597080/Cyclistic" target="blank">
+<a href="https://github.com/monica-yesildirek/Bike-Share" target="blank">
 :heavy_check_mark: Completed Google Data Analytics Certificate 
 <a href="https://public.tableau.com/app/profile/monica.yesildirek/viz/CyclisticBikeShare_16538424597080/Cyclistic" target="blank">
 View on Tableau Public
