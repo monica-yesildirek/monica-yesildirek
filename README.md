@@ -11,15 +11,14 @@
 <h3 align="left">About Me</h3>
 
 :large_blue_diamond: Skilled in data science, remote sensing, and environmental modeling
-
+</p>
 :earth_africa: Merging environmental science and GIS to to protect what matters
-
+</p>
 :seedling: Creating edible landscapes and native wildlife habitat for pollinators on my free time
-
+</p>
 <a href="https://github.com/monica-yesildirek/Bike-Share" target="blank">
 :heavy_check_mark: Completed Google Data Analytics Certificate</a>
-
-
+</p>
 <a href="https://public.tableau.com/app/profile/monica.yesildirek/viz/CyclisticBikeShare_16538424597080/Cyclistic" target="blank">
 :eyes: View Cyclistic Bike Share project on Tableau Public</a>
 
