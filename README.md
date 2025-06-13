@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="left">Hello world, I'm Monica Yesildirek 👋 </h1>
-<h3 align="left">Diverse data scientist from Austin, TX</h3>
+<h3 align="left">Diverse data scientist in Austin, TX</h3>
 <h4 align="left">
 
 📝 You can find my publications and datasets at [https://orcid.org/0000-0002-0320-8531](https://orcid.org/0000-0002-0320-8531)
