@@ -12,7 +12,7 @@
 
 :chart_with_upwards_trend: Skilled in data science, GIS, and environmental modeling
 </p>
-:earth_africa: Merging environmental science and geography to protect what matters
+:earth_africa: Applying geographic insight to protect people and the planet
 </p>
 :seedling: Creating edible landscapes and native wildlife habitat on my free time
 </p>
