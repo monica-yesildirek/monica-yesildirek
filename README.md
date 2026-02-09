@@ -42,7 +42,7 @@
 <img src="https://github.com/user-attachments/assets/851bb788-2fa4-4140-a87a-76a7ef2969a1" alt="ArcGIS" width="40" height="40"/></a>
 <a href="https://desktop.github.com/" target="blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" alt="github desktop" alt="Git" width="40" height="40"/></a>
-<a href="https://www.ibm.com/analytics/spss-statistics-software" target="blank">
+<a href="https://www.theanalysisfactor.com/wp-content/uploads/2022/09/SPSS-blog-150x150.png" target="blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Logo_SPSS.png/640px-Logo_SPSS.png" alt="SPSS" width="40" height="40"/></a>
 <a href="https://www.postgresql.org/" target="blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="SPSS" width="40" height="40"/></a>
