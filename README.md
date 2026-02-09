@@ -15,6 +15,7 @@
 :earth_africa: Applying geographic insight to protect people and the planet
 </p>
 :seedling: Creating edible landscapes and native wildlife habitat on my free time
+🐱Mom of two cats
 </p>
 <a href="https://github.com/monica-yesildirek/Bike-Share" target="blank">
 <img src="https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-09-512.png"width="25" height="25" align="center"/>See my Google Data Analytics Certificate project repository</a>
