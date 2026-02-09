@@ -43,7 +43,7 @@
 <a href="https://desktop.github.com/" target="blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" alt="github desktop" alt="Git" width="40" height="40"/></a>
 <a href="https://www.ibm.com/products/spss-statistics" target="blank">
-<img src="https://www.theanalysisfactor.com/wp-content/uploads/2022/09/SPSS-blog-150x150.png" alt="SPSS" width="40" height="40"/></a>
+<img src="https://www.pngfind.com/pngs/m/339-3393438_spss-spss-logo-hd-png-download.png" alt="SPSS" width="40" height="40"/></a>
 <a href="https://www.postgresql.org/" target="blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="SPSS" width="40" height="40"/></a>
 <a href="https://www.dask.org/" target="blank">
