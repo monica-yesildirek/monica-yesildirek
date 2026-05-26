@@ -1,6 +1,8 @@
 <h1 align="left">Hello world, I'm Monica Yesildirek 👋 </h1>
-<h3 align="left">Data scientist | Analytics Engineer | Applied AI Engineer</h3>
+<h3 align="left">Data scientist | Analytics Engineer | Applied AI </h3>
 <h4 align="left">
+
+<img width="1983" height="793" alt="LinkedinBanner" src="https://github.com/user-attachments/assets/9db78ca9-3691-4a2e-9597-3e345fbde4cc" />
 
 <h3 align="left">About Me</h3>
 
