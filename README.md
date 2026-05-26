@@ -65,4 +65,4 @@ Currently building end-to-end analytics and AI systems integrating geospatial in
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
-### Featured Projects
+## Featured Projects
