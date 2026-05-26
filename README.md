@@ -1,7 +1,3 @@
-<p align="left">
-<img width="1983" height="793" alt="TechBanner" src="https://github.com/user-attachments/assets/0545eb02-2fb2-4963-af53-e9415200cbd6" alt="tech banner"/>
-</p>
-
 <h1 align="left">Hello world, I'm Monica Yesildirek 👋 </h1>
 <h3 align="left">Data scientist | Analytics Engineer | Applied AI Engineer</h3>
 <h4 align="left">
