@@ -14,8 +14,6 @@
 </p>
 :earth_africa: Applying geographic insight to protect people and the planet
 </p>
-🐱Proud cat mom of two rescue kitties
-</p>
 :seedling: Creating edible landscapes and native wildlife habitat on my free time
 </p>
 <a href="https://github.com/monica-yesildirek/Bike-Share" target="blank">
