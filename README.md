@@ -25,26 +25,18 @@
 <a href="https://www.linkedin.com/in/monica-yesildirek/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" alt="https://www.linkedin.com/in/monica-yesildirek/" height="30" width="120" /></a>
 </p>
 
-<h3 align="left">Programming Languages and Tools</h3>
-<p align="left"> 
-<a href="https://cran.r-project.org/bin/windows/base/" target="blank">
-<img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="48" height="38"/></a>
-<a href="https://www.python.org/downloads/" target="blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://jupyter.org/" target="blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/></a>
-<a href="https://www.tableau.com/products/cloud-bi" target="blank">
-<img src="https://pbs.twimg.com/profile_images/1268207088683020288/d9agkn4h_400x400.jpg" alt="tableau" width="47" height="47"/></a>
-<a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="blank">
-<img src="https://github.com/user-attachments/assets/851bb788-2fa4-4140-a87a-76a7ef2969a1" alt="ArcGIS" width="40" height="40"/></a>
-<a href="https://desktop.github.com/" target="blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" alt="github desktop" alt="Git" width="40" height="40"/></a>
-<a href="https://www.ibm.com/products/spss-statistics" target="blank">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMDIwpBtJ4xMyaCmeqEpJ0RwxSvkwc8WbmXA&s" alt="SPSS" width="40" height="40"/></a>
-<a href="https://www.postgresql.org/" target="blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="SPSS" width="40" height="40"/></a>
-<a href="https://www.dask.org/" target="blank">
-<img src="https://github.com/user-attachments/assets/b093dc2c-edb6-4f6a-b5ea-2d38e48514d9" alt="SPSS" width="40" height="40"/></a>
-<a href="https://earthengine.google.com" target="blank">
-<img src="https://images.icon-icons.com/1508/PNG/512/googleearth-engine_104576.png" alt="SPSS" width="40" height="40"/></a></p>
+## Programming & Analytics
+R • Python • SQL • SPSS
+
+## GIS & Spatial Analytics
+ArcGIS Pro • QGIS • Google Earth Engine
+
+## Data Visualization
+Tableau • Power BI
+
+## Data Engineering & Development
+PostgreSQL • Git/GitHub • VS Code • Quarto
+
+## Machine Learning & AI
+Scikit-learn • TensorFlow • PyTorch • LangChain
 
