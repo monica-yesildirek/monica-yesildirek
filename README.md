@@ -2,7 +2,7 @@
 <h3 align="left">Data scientist | Analytics Engineer | Applied AI </h3>
 <h4 align="left">
 
-<img width="1983" height="793" alt="LinkedinBanner" src="https://github.com/user-attachments/assets/9db78ca9-3691-4a2e-9597-3e345fbde4cc" />
+<img width="1226" height="334" alt="GithubBanner" src="https://github.com/user-attachments/assets/307a62cf-8aa5-4865-8c7f-cf6eb9f55d96" />
 
 <h3 align="left">About Me</h3>
 
