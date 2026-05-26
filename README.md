@@ -25,18 +25,15 @@
 <a href="https://www.linkedin.com/in/monica-yesildirek/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" alt="https://www.linkedin.com/in/monica-yesildirek/" height="30" width="120" /></a>
 </p>
 
-## Programming & Analytics
-R • Python • SQL • SPSS
+Programming & Analytics
+[Python] [R] [SQL] [SPSS]
 
-## GIS & Spatial Analytics
-ArcGIS Pro • QGIS • Google Earth Engine
+GIS & Spatial Analytics
+[ArcGIS] [QGIS] [GEE]
 
-## Data Visualization
-Tableau • Power BI
+Data Engineering & Development
+[PostgreSQL] [GitHub] [VS Code] [Quarto]
 
-## Data Engineering & Development
-PostgreSQL • Git/GitHub • VS Code • Quarto
-
-## Machine Learning & AI
-Scikit-learn • TensorFlow • PyTorch • LangChain
+Machine Learning & AI
+[Scikit-learn] [TensorFlow] [PyTorch] [LangChain]
 
