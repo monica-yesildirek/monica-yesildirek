@@ -4,7 +4,7 @@
 
 <img width="1226" height="232" alt="GithubBanner" src="https://github.com/user-attachments/assets/9fae2605-6a42-410b-bf45-37fda0d9f739" />
 
-##About Me
+< h2 About Me </h2>
 
 📊 Data scientist focused on predictive analytics, AI/ML, geospatial intelligence, and analytics engineering
 
@@ -28,7 +28,7 @@ Currently building end-to-end analytics and AI systems integrating geospatial in
 <a href="https://www.linkedin.com/in/monica-yesildirek/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" alt="https://www.linkedin.com/in/monica-yesildirek/" height="30" width="120" /></a>
 </p>
 
-## Technical Stack
+<h2 Technical Stack </h2>
 
 ### Languages & Query
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -65,4 +65,4 @@ Currently building end-to-end analytics and AI systems integrating geospatial in
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
-## Featured Projects
+<h2 Featured Projects </h2>
