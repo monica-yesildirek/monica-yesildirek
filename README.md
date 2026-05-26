@@ -4,7 +4,7 @@
 
 <img width="1226" height="232" alt="GithubBanner" src="https://github.com/user-attachments/assets/9fae2605-6a42-410b-bf45-37fda0d9f739" />
 
-##>About Me
+##About Me
 
 📊 Data scientist focused on predictive analytics, AI/ML, geospatial intelligence, and analytics engineering
 
