@@ -1,12 +1,10 @@
 <p align="left">
-<img src="https://github.com/user-attachments/assets/4d0e9b49-bfed-41f6-8445-590a1614c9e6" alt="Texas prairie wildflowers" width="800" height="200"/> 
+<img width="800" height="200" alt="TechBanner" src="https://github.com/user-attachments/assets/0545eb02-2fb2-4963-af53-e9415200cbd6" alt="tech banner"/>
 </p>
 
 <h1 align="left">Hello world, I'm Monica Yesildirek 👋 </h1>
 <h3 align="left">Data scientist | Analytics Engineer | Applied AI Engineer</h3>
 <h4 align="left">
-
-📝 You can find my publications and datasets at [https://orcid.org/0000-0002-0320-8531](https://orcid.org/0000-0002-0320-8531)
 
 <h3 align="left">About Me</h3>
 
@@ -19,6 +17,13 @@
 🛠️ Building end-to-end analytics and AI projects integrating geospatial data, data engineering, and modern ML workflows
 
 🌱 Outside of tech, I enjoy designing edible landscapes and native wildlife habitats
+
+Currently building end-to-end analytics and AI systems integrating:
+- geospatial intelligence
+- machine learning
+- analytics engineering
+- experimentation
+- modern AI workflows
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
