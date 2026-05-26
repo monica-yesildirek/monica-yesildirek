@@ -16,7 +16,7 @@
 
 🌱 Outside of tech, I enjoy designing edible landscapes and native wildlife habitats
 
-Currently building end-to-end analytics and AI systems integrating:
+Currently building end-to-end analytics and AI systems integrating geospatial intelligence, machine learning, analytics engineering, experimentation, and modern AI workflows.
 - geospatial intelligence
 - machine learning
 - analytics engineering
@@ -64,3 +64,5 @@ Currently building end-to-end analytics and AI systems integrating:
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+### Featured Projects
