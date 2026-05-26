@@ -25,15 +25,39 @@
 <a href="https://www.linkedin.com/in/monica-yesildirek/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" alt="https://www.linkedin.com/in/monica-yesildirek/" height="30" width="120" /></a>
 </p>
 
-Programming & Analytics
-[Python] [R] [SQL] [SPSS]
+<h2>Programming & Analytics</h2>
+<div class="tool-grid">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/IBM_SPSS_v23.svg" alt="SPSS">
+</div>
 
-GIS & Spatial Analytics
-[ArcGIS] [QGIS] [GEE]
+<h2>GIS & Spatial Analytics</h2>
+<div class="tool-grid">
+  <img src="https://images.icon-icons.com/2699/PNG/512/esri_arcgis_logo_icon_170975.png" alt="ArcGIS Pro">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png" alt="QGIS">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google_Earth_Engine_logo.png" alt="Google Earth Engine">
+</div>
 
-Data Engineering & Development
-[PostgreSQL] [GitHub] [VS Code] [Quarto]
+<h2>Data Visualization</h2>
+<div class="tool-grid">
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI">
+</div>
 
-Machine Learning & AI
-[Scikit-learn] [TensorFlow] [PyTorch] [LangChain]
+<h2>Data Engineering & Development</h2>
+<div class="tool-grid">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code">
+  <img src="https://quarto.org/quarto.png" alt="Quarto">
+</div>
 
+<h2>Machine Learning & AI</h2>
+<div class="tool-grid">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch">
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" alt="LangChain">
+</div>
