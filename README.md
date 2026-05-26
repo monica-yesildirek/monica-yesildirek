@@ -10,19 +10,16 @@
 
 <h3 align="left">About Me</h3>
 
-:chart_with_upwards_trend: Skilled in data science, GIS, and environmental modeling
-</p>
-:earth_africa: Applying geographic insight to protect people and the planet
-</p>
-:seedling: Creating edible landscapes and native wildlife habitat on my free time
-</p>
-<a href="https://github.com/monica-yesildirek/Bike-Share" target="blank">
-<img src="https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-09-512.png"width="25" height="25" align="center"/>See my Google Data Analytics Certificate project repository</a>
-</p>
-<a href="https://public.tableau.com/app/profile/monica.yesildirek/viz/CyclisticBikeShare_16538424597080/Cyclistic" target="blank">
-<img src="https://pbs.twimg.com/profile_images/1268207088683020288/d9agkn4h_400x400.jpg"width="25" height="25" align="center"/>Check out my interactive Cyclistic Bike Share project on Tableau Public</a>
+📊 Data scientist focused on predictive analytics, AI/ML, geospatial intelligence, and analytics engineering
 
-</h4>
+🌎 Experienced in statistical modeling, GIS, environmental systems, and scalable data workflows
+
+🧠 Current focus areas include machine learning, decision science, experimentation, and applied AI systems
+
+🛠️ Building end-to-end analytics and AI projects integrating geospatial data, data engineering, and modern ML workflows
+
+🌱 Outside of tech, I enjoy designing edible landscapes and native wildlife habitats
+
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/monica-yesildirek/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" alt="https://www.linkedin.com/in/monica-yesildirek/" height="30" width="120" /></a>
