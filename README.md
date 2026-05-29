@@ -1,5 +1,5 @@
 <h1 align="left">Hello world, I'm Monica Yesildirek 👋 </h1>
-<h3 align="left">Data scientist | Analytics Engineer | Applied AI </h3>
+<h3 align="left">Data scientist | Analytics Engineer | AI Engineer </h3>
 <h4 align="left">
 
 <img width="1226" height="232" alt="GithubBanner" src="https://github.com/user-attachments/assets/9fae2605-6a42-410b-bf45-37fda0d9f739" />
